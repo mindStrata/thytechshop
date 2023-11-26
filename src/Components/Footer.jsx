@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="flex flex-col justify-center text-center">
         <h2 className="text-2xl font-semibold pb-2">thyTechShop.</h2>
         <p className="text-[14px]">
-          Copyright © 2023 shopKaro. All rights reserved.
+          Copyright © 2023 thyTechShop. All rights reserved.
         </p>
         <div
           className="flex justify-center text-cente space-x-[16px] mt-3 text-2xl "

@@ -47,14 +47,6 @@ const Product = [
           "Now just stop worrying about Wires hanging from here and there. Pair with any Bluetooth device, connect and play. Dead Batteries can kill your vibe. boAt Rockerz 518 is designed to play Up to 20 hours. Don't just be loud, be loud and clear. We assure you have not heard such powerful bass and vocal clarity from a wireless comfortable headphone with Extra Comfort Ear cups. The boAt Super Bass Rockerz 518 Wireless Headphones will make your listening experience personal and for real. So, just plug it in and Plug into Nirvana.",
         price: "$200.67",
       },
-      /* {
-        id: 4,
-        title: "Rockerz 400 Superman DC Edition - Wireless Bluetooth Headphone",
-        image: Prod4,
-        description:
-          "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. boAt Rockerz bluetooth headphones are designed to play Up to 8 hours. It has a High Definition Sound. Don't just be loud, be loud and clear. We guarantee you have not heard such powerful bass and vocal clarity from a wireless headphone. The boAt Super Bass Rockerz 400 wireless headphones will make your listening experience personal and for real. Plug it in and Plug into Nirvana.",
-        price: "$200.67",
-      }, */
       {
         id: 5,
         title: "Rockerz 450 Superman DC Edition - Wireless Bluetooth Headphone",
@@ -105,7 +97,7 @@ const Product = [
   {
     earbuds: [
       {
-        id: "10",
+        id: 10,
         title:
           "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
         image: Prod11,
@@ -114,7 +106,7 @@ const Product = [
         price: "$765.98",
       },
       {
-        id: "11",
+        id: 11,
         title:
           "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
         image: Prod14,
@@ -123,7 +115,7 @@ const Product = [
         price: "$108.78",
       },
       {
-        id: "12",
+        id: 12,
         title:
           "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
         image: Prod12,
@@ -132,7 +124,7 @@ const Product = [
         price: "$872.09",
       },
       {
-        id: "13",
+        id: 13,
         title:
           "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
         image: Prod13,
@@ -145,7 +137,7 @@ const Product = [
   {
     smartWatch: [
       {
-        id: "14",
+        id: 14,
         title: `boAt Wave Neo | 1.69" HD Display, Upto 7 Days Battery Life, IP68 Sweat`,
         image: Prod15,
         description:
@@ -153,7 +145,7 @@ const Product = [
         price: "$46.90",
       },
       {
-        id: "15",
+        id: 15,
         title: `boAt Iris | Round Dial Smart Watch with 1.39" AMOLED Display, Multiple Watch Faces`,
         image: Prod16,
         description:
@@ -167,6 +159,14 @@ const Product = [
         description:
           "When you can be at the apex of your health, why compromise? Meet Watch Vertex, our all-new smartwatch that’s built to improve your lifestyle and push you closer towards your fitness goals. Its large 1.69 inch full capacitive touch display allows you to control everything. Fitness features, including heart rate & SpO2 tracker, health ecosystem, sleep tracker, and more, ensure you get the support you need on your fitness journey. Enjoy going on hikes? Vertex is the perfect travel partner with its extra long battery of up to 10 days. Hustle your journey to the top with Vertex.",
         price: "$768.87",
+      },
+      {
+        id: 4,
+        title: `boAt Iris | Round Dial Smart Watch with 1.39" AMOLED Display, Multiple Watch Faces`,
+        image: Prod16,
+        description:
+          "Let's put an end to your worries about wires hanging and getting tangled with BoAt Rockerz 400 and connect with any Bluetooth device, connect and play. Dead batteries can kill your vibe. boAt Rockerz bluetooth headphones are designed to play Up to 8 hours. It has a High Definition Sound. Don't just be loud, be loud and clear. We guarantee you have not heard such powerful bass and vocal clarity from a wireless headphone. The boAt Super Bass Rockerz 400 wireless headphones will make your listening experience personal and for real. Plug it in and Plug into Nirvana.",
+        price: "$200.67",
       },
     ],
   },
